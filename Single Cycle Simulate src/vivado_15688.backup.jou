@@ -1,0 +1,31 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Fri Sep 20 22:51:39 2019
+# Process ID: 15688
+# Current directory: C:/Users/feifa/Documents/2019xiaoxueqi/single-cycle-CPU-handin/project_1 Simulate
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23048 C:\Users\feifa\Documents\2019xiaoxueqi\single-cycle-CPU-handin\project_1 Simulate\project_1.xpr
+# Log file: C:/Users/feifa/Documents/2019xiaoxueqi/single-cycle-CPU-handin/project_1 Simulate/vivado.log
+# Journal file: C:/Users/feifa/Documents/2019xiaoxueqi/single-cycle-CPU-handin/project_1 Simulate\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/feifa/Documents/2019xiaoxueqi/single-cycle-CPU-handin/project_1 Simulate/project_1.xpr}
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+open_run synth_1 -name synth_1
+close_design
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_simulation
+reset_run synth_1
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+source CPU_sim.tcl

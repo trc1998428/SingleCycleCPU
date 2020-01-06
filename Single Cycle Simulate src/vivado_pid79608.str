@@ -1,0 +1,103 @@
+/*
+
+Vivado v2017.2 (64-bit)
+SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+
+Process ID: 79608
+License: Customer
+
+Current time: 	9/19/19 9:00:40 AM CST
+Time zone: 	China Standard Time (Asia/Shanghai)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1536x864
+Screen resolution (DPI): 96
+Available screens: 1
+Available disk space: 0 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_112 64-bit
+Java home: 	D:/vivado/Vivado/2017.2/tps/win64/jre
+JVM executable location: 	D:/vivado/Vivado/2017.2/tps/win64/jre/bin/java.exe
+Java library paths: D:/vivado/Vivado/2017.2/bin/unwrapped/win64.o;C:/WINDOWS/Sun/Java/bin;C:/WINDOWS/system32;C:/WINDOWS;D:/vivado/Vivado/2017.2/bin;D:/vivado/Vivado/2017.2/lib/win64.o;D:/vivado/Vivado/2017.2/tps/win64/jre/bin/server;D:/vivado/Vivado/2017.2/tps/win64/jre/bin;D:/vivado/SDK/2017.2/bin;D:/vivado/Vivado/2017.2/ids_lite/ISE/bin/nt64;D:/vivado/Vivado/2017.2/ids_lite/ISE/lib/nt64;D:/vivado/Vivado_HLS/2017.2/bin;C:/Program Files/Haskell/bin;D:/8.6.3/lib/extralibs/bin;D:/8.6.3/bin;C:/Users/feifa/Desktop/ctex套装（推荐新手安装，功能强大，容易上手）/CTEX/UserData/miktex/bin;C:/Users/feifa/Desk;op/ctex套装（推荐新手安装，功能强大，容易上手）/CTEX/MiKTeX/miktex/bin;op/ctex套装（推荐新手安装，功能强大，容易上手）/CTEX/CTeX/ctex/bin;op/ctex套装（推荐新手安装，功能强大，容易上手）/CTEX/CTeX/cct/bin;op/ctex套装（推荐新手安装，功能强大，容易上手）/CTEX/CTeX/ty/bin;op/ctex套装（推荐新手安装，功能强大，容易上手）/CTEX/Ghostscript/gs9.05/bin;op/ctex套装（推荐新手安装，功能强大，容易上手）/CTEX/GSview/gsview;op/ctex套装（推荐新手安装，功能强大，容易上手）/CTEX/WinEdt;C:/Program Files (x;6)/Microsoft VS Code/bin;D:/MinGW/bin;C:/Program Files/Java/jdk1.8.0_201/bin;C:/Program Files/Java/jdk1.8.0_201/jre/bin;D:/Haskell/bin;D:/8.6.3/mingw/bin;C:/antlrworks-1.5.1.jar;C:/WINDOWS/system32;C:/WINDOWS;C:/WINDOWS/system32/wbem;%Android_Platform_Tools%;C:/Users/feifa/AppData/Local/Android/Sdk/platform-tools;C:/Program Files/Git/cmd;C:/Users/feifa/AppData/Roaming/cabal/bin;C:/Users/feifa/Anaconda3;C:/Users/feifa/Anaconda3/Library/mingw-w64/bin;C:/Users/feifa/Anaconda3/Library/usr/bin;C:/Users/feifa/Anaconda3/Library/bin;C:/Users/feifa/Anaconda3/Scripts;D:/Tools/WinNT;D:/MSDev98/Bin;D:/Tools;D:/VC98/bin;C:/Users/feifa/AppData/Local/Microsoft/WindowsApps;C:/Program Files (x86)/Microsoft VS Code/bin;D:/vivado/Vivado/2017.2/tps/mingw/6.2.0/win64.o/nt/bin;D:/vivado/Vivado/2017.2/tps/mingw/6.2.0/win64.o/nt/libexec/gcc/x86_64-w64-mingw32/6.2.0;.
+
+User name: 	feifa
+User home directory: C:/Users/feifa
+User working directory: C:/Users/feifa/Documents/2019小学期/single-cycle-CPU/project_1 Simulate
+User country: 	CN
+User language: 	zh
+User locale: 	zh_CN
+
+RDI_BASEROOT: D:/vivado/Vivado
+HDI_APPROOT: D:/vivado/Vivado/2017.2
+RDI_DATADIR: D:/vivado/Vivado/2017.2/data
+RDI_BINDIR: D:/vivado/Vivado/2017.2/bin
+
+User preferences location: C:/Users/feifa/AppData/Roaming/Xilinx/Vivado
+Vivado preferences directory: C:/Users/feifa/AppData/Roaming/Xilinx/Vivado/2017.2/vivado.xml
+Vivado layouts directory: C:/Users/feifa/AppData/Roaming/Xilinx/Vivado/2017.2/layouts
+PlanAhead jar location: 	D:/vivado/Vivado/2017.2/lib/classes/planAhead.jar
+Vivado Look & Feel: 	[Synthetica - the extended Synth Look and Feel. - ui.g.i.H]
+Engine tmp dir: 	C:/Users/feifa/Documents/2019小学期/single-cycle-CPU/project_1 Simulate/.Xil/Vivado-79608-DESKTOP-Q7844D5
+
+GUI allocated memory:	192 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 585 MB
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// [GUI Memory]: 42 MB (+41451kb) [00:00:07]
+// [Engine Memory]: 502 MB (+374733kb) [00:00:07]
+// bs:g (cg:JFrame):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: MSGMGR_REFRESH_MSG
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project {C:/Users/feifa/Documents/2019小学期/single-cycle-CPU/project_1 Simulate/project_1.xpr} 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 67 MB (+24565kb) [00:00:09]
+// [Engine Memory]: 538 MB (+11256kb) [00:00:09]
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/vivado/Vivado/2017.2/data/ip'. 
+// [GUI Memory]: 74 MB (+3585kb) [00:00:12]
+// [Engine Memory]: 591 MB (+27640kb) [00:00:12]
+// Project name: project_1; location: C:/Users/feifa/Documents/2019小学期/single-cycle-CPU/project_1 Simulate; part: xc7a35tcpg236-1
+// HMemoryUtils.trashcanNow. Engine heap size: 595 MB. GUI used memory: 37 MB. Current time: 9/19/19 9:00:41 AM CST
+dismissDialog("Open Project"); // bs:g (cg:JFrame)
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_GRAPH_GENERATED
+// Tcl Message: update_compile_order -fileset sources_1 
+// Elapsed time: 40 seconds
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v)]", 1); // B:i (D:JPanel, cg:JFrame)
+// PAPropertyPanels.initPanels (DataSelector.v) elapsed time: 0.2s
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v), dataselectregdata : DataSelector (DataSelector.v)]", 13, false); // B:i (D:JPanel, cg:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v)]", 1, true); // B:i (D:JPanel, cg:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v)]", 1, true); // B:i (D:JPanel, cg:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v)]", 1, true); // B:i (D:JPanel, cg:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v)]", 1, true); // B:i (D:JPanel, cg:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v)]", 1, true); // B:i (D:JPanel, cg:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v)]", 1, true, false, false, false, false, true); // B:i (D:JPanel, cg:JFrame) - Double Click - Node
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v)]", 1); // B:i (D:JPanel, cg:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v), dataselectora : DataSelector (DataSelector.v)]", 3, false); // B:i (D:JPanel, cg:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v), saextendunit : saExtendUnit (saExtendUnit.v)]", 2, false); // B:i (D:JPanel, cg:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v), saextendunit : saExtendUnit (saExtendUnit.v)]", 2, false, false, false, false, false, true); // B:i (D:JPanel, cg:JFrame) - Double Click
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v), dataselectorb : DataSelector (DataSelector.v)]", 4, false); // B:i (D:JPanel, cg:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v), dataselectora : DataSelector (DataSelector.v)]", 3, false); // B:i (D:JPanel, cg:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v), dataselectora : DataSelector (DataSelector.v)]", 3, false, false, false, false, false, true); // B:i (D:JPanel, cg:JFrame) - Double Click
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v), dataselectorb : DataSelector (DataSelector.v)]", 4, false); // B:i (D:JPanel, cg:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v), dataselectorb : DataSelector (DataSelector.v)]", 4, false, false, false, false, false, true); // B:i (D:JPanel, cg:JFrame) - Double Click
+// [Engine Memory]: 656 MB (+37607kb) [00:01:26]
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v), dataselectorb : DataSelector (DataSelector.v)]", 4, false); // B:i (D:JPanel, cg:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SingleCycleCPU (Top.v), dataselectorb : DataSelector (DataSelector.v)]", 4, false, false, false, false, false, true); // B:i (D:JPanel, cg:JFrame) - Double Click
+// HMemoryUtils.trashcanNow. Engine heap size: 656 MB. GUI used memory: 40 MB. Current time: 9/19/19 9:01:55 AM CST
